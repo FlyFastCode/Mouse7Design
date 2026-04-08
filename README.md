@@ -1,4 +1,4 @@
-# Mouse7Design - React 基础框架
+# Mouse7Design - React 基础框架2
 
 基于 React + TypeScript + Vite 的现代前端基础框架，符合 CI/CD 流水线标准。
 
